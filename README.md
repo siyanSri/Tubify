@@ -21,7 +21,7 @@ To use Song Downloader, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/siyanSri/Tubify.git
    cd song-downloader
    
 2. Install the project dependencies::
