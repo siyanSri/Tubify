@@ -1,0 +1,27 @@
+{
+  "name": "song-downloader",
+  "version": "1.0.0",
+  "description": "Locally hosted web app that can download spotify playlists for free",
+  "main": "index.js",
+  "scripts": {
+    "test": "pytest / jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siyanSri/Tubify.git"
+  },
+  "keywords": [
+    "spotify",
+    "pytube",
+    "flask"
+  ],
+  "author": "Siyan Sriganeshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siyanSri/Tubify/issues"
+  },
+  "homepage": "https://github.com/siyanSri/Tubify#readme",
+  "dependencies": {
+    "flask": "^0.2.10"
+  }
+}
